@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Operators", "03_Operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conditionals", "04_Conditionals\04_Conditionals.csproj", "{BE339121-9578-49B3-A8B0-11E94222B974}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{E2EFAEB9-9A66-4DE0-B9D9-C93F9E2A3260}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{BE339121-9578-49B3-A8B0-11E94222B974}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE339121-9578-49B3-A8B0-11E94222B974}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE339121-9578-49B3-A8B0-11E94222B974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2EFAEB9-9A66-4DE0-B9D9-C93F9E2A3260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2EFAEB9-9A66-4DE0-B9D9-C93F9E2A3260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2EFAEB9-9A66-4DE0-B9D9-C93F9E2A3260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2EFAEB9-9A66-4DE0-B9D9-C93F9E2A3260}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
